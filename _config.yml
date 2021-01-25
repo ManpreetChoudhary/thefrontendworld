@@ -13,9 +13,8 @@ facebook_username: https://www.facebook.com/
 twitter_username: https://twitter.com/
 slack_username: https://slack.com/intl/en-in/
 favicon: assets/images/favicon-16x16.png
-paginate: '12'
-paginate_path: '/blog/page:num/'
-
+paginate: '4'
+paginate_path: '/page:num/'
 sass:
   sass_dir: _sass
   style: compressed
