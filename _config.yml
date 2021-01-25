@@ -1,23 +1,50 @@
-title: TheFrontEndWorld
+name: Thefrontendworld
+title: Thefrontendworld
 email: the@frontendworld.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Describe Blog Posts
+address: Sangrur
+phone: '8699594438'
+tagline: Explore all blog posts
+description: Describe Blog Posts
 baseurl: '' # the subpath of your site, e.g. /blog
+permalink: /blog/:title
 url: 'https://www.thefrontendworld.com/' # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: https://www.instagram.com/front_end_world/
+facebook_username: https://www.facebook.com/
+twitter_username: https://twitter.com/
+slack_username: https://slack.com/intl/en-in/
+favicon: assets/images/favicon-16x16.png
+paginate: '12'
+paginate_path: '/blog/page:num/'
+
+sass:
+  sass_dir: _sass
+  style: compressed
+markdown: kramdown
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - jekyll-sitemap
+  - jekyll-include-cache
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+whitelist:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
+
+disqus:
+  shortname: wordswithletters
+copyright_text: Copyright © 2020 All rights reserved to
+company_url: http://wordunscramblers.org/

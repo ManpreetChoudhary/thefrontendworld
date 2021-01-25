@@ -1,10 +1,11 @@
 ---
 layout: post
 title: ReScript – the language after TypeScript?
-date: 2021-01-19 17:30:30 +0530
-categories: jekyll update
-image: assets/images/men.png
-author: Manpreet_singh
+description: ''
+image: '/assets/images/men.png'
+image2: ''
+author: ram
+categories: []
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

@@ -1,0 +1,54 @@
+:::::::::::::::::::::::::::
+HOT TOPIC IN INTERNET WORLD
+::::::::::::::::::::::::::::
+
+1)-url: how-to-become-a-front-end-developer/
+  <title> How to Become a Front-End Developer - A Step by Step 2021 Guide</title>
+   subHeading: What is a Front End Developer?
+   subHeading2: 13 Skills You Need to Become a Front End Developer 2020 - thefrontendworld
+   subHeading3: Front End Developer Salary
+   subHeading4: What’s the Future of Front End Developers?
+
+2)-url: free-stock-photos/
+  <title>21 Amazing Sites With Breathtaking Free Stock Photos (2021 Update)</title>
+  -url: websites-download-free-quality-images/
+  <title>Top 11 Websites You Can Download High-Quality Stock Images For Free [Updated] - Thefrontendworld</title>
+  -url: best-stock-photo-sites
+  <title>Best Stock Photo Sites: Ultimate Guide with 20 Stock Photo Websites! (2021 Update)</title>
+  TopWebsitesLinks: 1. https://www.freepik.com/
+               2. https://pixabay.com/
+               3. https://www.pexels.com/ 
+               4. https://stocksnap.io/
+               5. https://unsplash.com/ 
+
+3)-url: 8-websites-you-should-visit-to-learn-web-development/
+   <title>8 Websites You Should Visit To Learn Web Development | thefrontendworld</title>
+   -url: /blog/8-best-websites-learn-web-development-for-free/
+   <title>8 Best Websites to Learn Web Development for Free</title>
+   url: learn-web-development
+   <title>12 Websites You Should Check Out to Learn Web Development Fast</title>
+   url: learn-web-development-online
+   <title>10 Great Websites To Help You Learn Web Development Online</title>
+   <title>13 Web Developer Websites To Follow To Improve Your Skills</title>
+   TopWebsitesLinks: 1. https://www.w3schools.com/
+                     2. https://www.geeksforgeeks.org/
+                     3. https://www.freecodecamp.org/
+                     4. Udemy
+                     5. https://developer.mozilla.org/en-US/
+                     6. https://www.tutorialspoint.com/
+                     7. https://www.javatpoint.com/
+                     8. https://www.tutorialsteacher.com/
+
+4)-url: top-10-blogs-for-web-developers
+  <title>Top 10 Blogs for Web Developers 2021</title>
+  TopWebsitesLinks: 1. https://css-tricks.com/
+                    2. https://blog.codepen.io/
+                    3. https://www.creativebloq.com/
+                    4. https://www.smashingmagazine.com/
+                    5. https://medium.com/
+                    6. https://blog.webjeda.com/
+
+5)-url 
+                
+
+

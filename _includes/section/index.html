@@ -1,0 +1,55 @@
+<section class="section_post">
+    <div class="container">
+        <div class="row justify-content-center section-title-wrap">
+            <div class="col-lg-12 mt-5">
+                <h1 class="display-4" style="font-weight: 900;">{{ site.data.blog.title }}</h1>
+                <p class="lead" style="font-size: 18px;
+             margin: 1rem 0;">
+                    {{ site.data.blog.tagline }}
+                </p>
+            </div>
+        </div>
+
+        <div class="row">
+            {% for post in paginator.posts%}
+            <div class="col-lg-3 col-md-6 mb-4 card-group">
+                <div class="card h-100" style="border-radius:16px">
+                    <div class="card-body">
+                        <a href="{{ post.url }}" class="anchor_link">
+                            <h4 class="card-title mb-4">{{ post.title }}</h4>
+                        </a>
+
+                        <p class="card-text text_size">
+                            {{ post.description }}
+                        </p>
+
+                        <a href="{{ post.url }}">
+                            <img src="{{ post.image }}" class="card-img-top" alt="">
+                        </a>
+                    </div>
+                    <div class="card-footer">
+                        <div class="wrapfooter">
+                            <span class="meta-footer-thumb">
+                                <img class="author-thumb" src="{{post.image}}" alt="{{ post.author.name }}">
+                            </span>
+                            <span class="author-meta">
+                                <span class="post-name">
+                                    <a target="_blank" href="{{ post.author.url }}">{{post.author}}</a>
+                                </span><br>
+                                <span class="post-date">{{post.date | date_to_string }}</span>
+                            </span>
+                            <span class="post-read-more"><a href="{{ post.url }}" title="Read Story"><svg
+                                        class="svgIcon-use" width="25" height="25" viewBox="0 0 25 25">
+                                        <path
+                                            d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
+                                            fill-rule="evenodd"></path>
+                                    </svg></a></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+
+</section>

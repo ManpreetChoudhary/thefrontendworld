@@ -1,3 +1,9 @@
-h1 {
-  color: red;
-}
+// @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+
+// html {
+//   font-size: 62.5%;
+// }
+@import 'theme/header';
+@import 'theme/blog';
