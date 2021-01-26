@@ -66,15 +66,14 @@ layout: blog
                             <div class="pointerup"><i class="fa fa-caret-up"></i></div>
                             <span class="navigation" role="navigation">
                                 <div class="pagination2">
+                                    {% if page.previous.url %}
+                                    <a class="ml-1 mr-1 pageUrl" href="{{page.previous.url}}">« Prev</a>
+                                    {% endif %}
 
-                                    <a class="ml-1 mr-1 pageUrl"
-                                        href="/blog/what-are-some-of-the-benefits-of-playing-word-with-friends">«
-                                        Prev</a>
+                                    {% if page.next.url %}
+                                    <a class="ml-1 mr-1 pageUrl" href="{{page.next.url}}"> Next »</a>
 
-                                    <a class="ml-1 mr-1 pageUrl"
-                                        href="/blog/what-are-the-rules-for-playing-word-with-friends"> Next »</a>
-
-
+                                    {% endif %}
                                 </div>
                             </span>
                         </div>
