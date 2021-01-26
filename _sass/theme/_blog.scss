@@ -75,7 +75,7 @@
   width: 100%;
   display: flex;
   align-items: center;
-  padding-top: 45px;
+  padding-bottom: 25px;
 
   .author-thumb {
     width: 40px;
@@ -101,7 +101,7 @@
     padding: 3px 10px;
     text-align: center;
     border-radius: 999em;
-    font-size: 1.5rem;
+    font-size: 1rem;
     display: inline-block;
     border: 1px solid;
   }
@@ -144,5 +144,28 @@
     align-items: center;
     display: inline-block;
     margin-top: 8px;
+  }
+}
+
+.explore {
+  height: 200px;
+  background: #000000;
+  width: 100%;
+  text-align: center;
+  margin: 40px 0;
+  display: grid;
+  place-items: center;
+  /* min-height: 100vh; */
+  color: #fff;
+  .cat {
+    display: inline-block;
+    padding: 7px 10px;
+    text-decoration: none !important;
+    color: #000 !important;
+    font-weight: 600;
+    font-size: 12px;
+    background: #fff;
+    border-radius: 15px;
+    margin: 0 15px;
   }
 }

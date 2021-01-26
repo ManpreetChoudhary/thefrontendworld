@@ -2,7 +2,7 @@
 layout: post
 title: ReScript – the language after TypeScript?
 date: 2021-01-19 17:30:30 +0530
-categories: jekyll update
+categories: ram
 image: assets/images/men.png
 author: ram
 ---
