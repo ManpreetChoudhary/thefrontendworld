@@ -169,3 +169,16 @@
     margin: 0 15px;
   }
 }
+
+// catgories styling
+.section-title h2 {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  font-size: 1.5rem;
+  margin-bottom: 27px;
+  span {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.44);
+    display: inline-block;
+    padding-bottom: 20px;
+    margin-bottom: -1px;
+  }
+}

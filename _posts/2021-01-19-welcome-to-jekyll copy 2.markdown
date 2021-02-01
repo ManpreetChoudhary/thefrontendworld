@@ -4,7 +4,7 @@ title: ReScript – the language after TypeScript?
 description: ''
 image: '/assets/images/men.png'
 image2: ''
-author: ram
+author: sam
 categories: ram
 tage: ram
 ---
