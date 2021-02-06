@@ -1,0 +1,28 @@
+---
+label: this is second blog
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
+- type: text
+  name: image2
+  label: image2
+- type: text
+  name: author
+  label: author
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: tage
+  label: tage
