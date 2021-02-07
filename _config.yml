@@ -5,8 +5,8 @@ address: Sangrur
 phone: '8699594438'
 tagline: Explore all blog posts
 description: Describe Blog Posts
-baseurl: '' # the subpath of your site, e.g. /blog
-permalink: /:title
+baseurl: 'http://127.0.0.1:4000/' # the subpath of your site, e.g. /blog
+permalink: /blog/:title
 url: 'https://www.thefrontendworld.com' # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: https://www.instagram.com/front_end_world/
 facebook_username: https://www.facebook.com/

@@ -6,7 +6,7 @@ HOT TOPIC IN INTERNET WORLD
   <title> How to Become a Front-End Developer - A Step by Step 2021 Guide</title>
    subHeading: What is a Front End Developer?
    subHeading2: 13 Skills You Need to Become a Front End Developer 2020 - thefrontendworld
-   subHeading3: Front End Developer Salary
+   subHeading3: Front End Developer Salary.?
    subHeading4: What’s the Future of Front End Developers?
 
 2)-url: free-stock-photos/

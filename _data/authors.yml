@@ -1,11 +1,11 @@
 ram:
-  name: Ram
-  image: /assets/images/men.png
+  name: Ram Chand
+  image: /assets/images/ram.png
   bio: Author2 of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo.
   github: https://github.com/Ram-Moudgill
 
-Manpreet_singh:
+Manpreet:
   name: Manpreet singh
-  image: /assets/images/men.png
+  image: /assets/images/manpreet.png
   bio: Author4 of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo.
   github: https://github.com/ManpreetChoudhary
