@@ -1,11 +1,5 @@
----
-layout: post
----
-
-
 <html>
 {%- include head.html -%}
-
 <style>
     .blog-post {
         font-size: 20px;
@@ -60,7 +54,6 @@ layout: post
                     {% endif %}
 
                     <div class="fetch-posts-content mt-5">
-
                         {{ content }}
                     </div>
 
@@ -91,6 +84,8 @@ layout: post
         {%- include section/count.html -%}
     </section>
 
+    {%- include footer.html -%}
+    {%- include scripts.html -%}
 </body>
 
 </html>

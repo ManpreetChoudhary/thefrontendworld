@@ -1,19 +1,19 @@
-name: Thefrontendworld
-title: Thefrontendworld
-email: the@frontendworld.com
-address: Sangrur
+name: SiteName
+title: Site_Title_Name
+email: @sitename.com
+address: Punjab
 phone: '8699594438'
-tagline: Explore all blog posts
-description: Describe Blog Posts
-baseurl: 'http://127.0.0.1:4000/' # the subpath of your site, e.g. /blog
-permalink: /blog/:title
-url: 'https://www.thefrontendworld.com' # the base hostname & protocol for your site, e.g. http://example.com
+tagline: Latest Posts from our Blog
+description: Latest Posts from our Blog
+baseurl: '' # the subpath of your site, e.g. /blog
+permalink: blog/:title
+url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: https://www.instagram.com/front_end_world/
 facebook_username: https://www.facebook.com/
 twitter_username: https://twitter.com/
 slack_username: https://slack.com/intl/en-in/
-favicon: assets/images/favicon-16x16.png
-paginate: '6'
+favicon: assets/images/bebo-logo.svg
+paginate: '2'
 paginate_path: '/page:num/'
 sass:
   sass_dir: _sass

@@ -39,10 +39,8 @@
 
 <meta property="og:title" content="{{ page.title | default: site.title | replace: 'home', '|' }}">
 <meta property="og:locale" content="{{ site.locale | replace: " -", "_" | default: "en_US" }}">
-{% if page.excerpt %}
 <meta name="description" content="{{ seo_description }}">
 <meta property="og:description" content="{{ seo_description }}">
-{% endif %}
 <link rel="canonical" href="{{ canonical_url }}">
 <meta property="og:url" content="{{ canonical_url }}">
 <meta property="og:type" content="{{ og_type }}">
