@@ -1,13 +1,13 @@
 name: SiteName
 title: Site_Title_Name
-email: @sitename.com
+email: the@sitename.com
 address: Punjab
 phone: '8699594438'
 tagline: Latest Posts from our Blog
 description: Latest Posts from our Blog
 baseurl: '' # the subpath of your site, e.g. /blog
 permalink: blog/:title
-url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://thefrontendworld.netlify.app' # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: https://www.instagram.com/front_end_world/
 facebook_username: https://www.facebook.com/
 twitter_username: https://twitter.com/

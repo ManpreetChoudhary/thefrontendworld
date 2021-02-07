@@ -40,18 +40,7 @@
 .s_link {
   margin: 0 20px;
   font-size: 1rem;
-  /* cursor: pointer; */
-  background: linear-gradient(
-    90deg,
-    rgba(224, 23, 42, 0.94902),
-    var(--primary-color)
-  );
-  /* background-clip: unset; */
-  /* -webkit-background-clip: text; */
-  /* -webkit-text-fill-color: transparent; */
-  background: linear-gradient(to right, #74ebd5, #acb6e5);
-  color: black;
-  /* z-index: -1; */
+  color: deepskyblue;
   z-index: 99999;
   border-radius: 100%;
 }
