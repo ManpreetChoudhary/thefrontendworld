@@ -63,11 +63,11 @@ But We think many of people can't purchase the courses on Udemy, so we have anot
 
 **Some of number of YouTube channel is best for Front End Development:**
 
-1. [https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA "https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA")
-2. [https://www.youtube.com/user/TechGuyWeb](https://www.youtube.com/user/TechGuyWeb "https://www.youtube.com/user/TechGuyWeb")
-3. [https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww")
-4. [https://www.youtube.com/user/shiffman](https://www.youtube.com/user/shiffman "https://www.youtube.com/user/shiffman")
-5. [https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog")
+1. [Thapa Technical](https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA "Thapa Technical")
+2. [Traversy Media](https://www.youtube.com/user/TechGuyWeb "Traversy Media ")
+3. [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww "CodeWithHarry")
+4. [The Coding Train](https://www.youtube.com/user/shiffman "The Coding Train")
+5. [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog "Online Tutorials")
 
 ### 6. Get an Internship
 
