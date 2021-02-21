@@ -11,7 +11,7 @@ date: 2021-01-19T17:30:30.000+05:30
 comments: true
 
 ---
-![](/uploads/frontenddeveloper.jpg)
+[2020-10-22-09-01-09.mp4](/uploads/2020-10-22-09-01-09.mp4 "2020-10-22-09-01-09.mp4")![](/uploads/frontenddeveloper.jpg)
 
 # **What is a Front End Developer?**
 
